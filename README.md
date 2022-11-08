@@ -2,3 +2,4 @@
 ## Cambio en develop
 C6-sin-ff
 C7-sin-ff
+squash
